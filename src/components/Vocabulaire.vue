@@ -33,7 +33,7 @@ export default {
       repondu: "",
       fake: [],
       liste: [],
-      mots: [{ valeur: "test", traduction: "De teste" }]
+      mots: [{ valeur: "Patate", traduction: "D' Gromper" }]
     };
   },
   components: { Question, Propositions },

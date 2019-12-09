@@ -1,5 +1,5 @@
 {
-  "name": "apprentissage-luxembourgeois",
+  "name": "learnlux",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -46,5 +46,5 @@
     "not ie <= 8"
   ],
   "keywords": [],
-  "description": "Outil permettant l'apprentissage du Luxembourgeois"
+  "description": ""
 }
